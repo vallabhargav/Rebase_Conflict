@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 ggehdhdhdf
 higyykh
+=======
+rog
+
+android
+iphone
+redmagic
+ 
+>>>>>>> b1c7aa1 (commited)
